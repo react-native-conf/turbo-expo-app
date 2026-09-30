@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width="415" height="445" viewBox="0 0 415 445" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="startarrow" markerWidth="10" markerHeight="7"
+refX="0" refY="3.5" orient="auto">
+<polygon points="10 0, 10 7, 0 3.5" fill="context-stroke" />
+</marker>
+<marker id="endarrow" markerWidth="10" markerHeight="7"
+refX="10" refY="3.5" orient="auto">
+<polygon points="0 0, 10 3.5, 0 7" fill="context-stroke" />
+</marker>
+
+</defs><style>
+.a15 { font-size: 15px; font-family: Times, serif; }
+</style>
+<g >
+
+            <rect x="221.5" y="210" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="221.5" y="195" class="a15"><tspan x = "221.5" dy="1.0em">___ROOT___</tspan></text><g >
+
+            <rect x="221.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="221.5" y="135" class="a15"><tspan x = "221.5" dy="1.0em">@repo/eslint-config#build</tspan></text><g >
+
+            <rect x="303.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="303.5" y="135" class="a15"><tspan x = "303.5" dy="1.0em">@repo/eslint-config#lint</tspan></text><g >
+
+            <rect x="41.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="41.5" y="135" class="a15"><tspan x = "41.5" dy="1.0em">@repo/typescript-config#build</tspan></text><g >
+
+            <rect x="374.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="374.5" y="135" class="a15"><tspan x = "374.5" dy="1.0em">@repo/typescript-config#lint</tspan></text><g >
+
+            <rect x="101.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="101.5" y="135" class="a15"><tspan x = "101.5" dy="1.0em">mobile#build</tspan></text><g >
+
+            <rect x="161.5" y="150" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="161.5" y="135" class="a15"><tspan x = "161.5" dy="1.0em">mobile#lint</tspan></text><g >
+
+            <rect x="131" y="90" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="131" y="75" class="a15"><tspan x = "131" dy="1.0em">@repo/ui#build</tspan></text><g >
+
+            <rect x="338.5" y="90" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="338.5" y="75" class="a15"><tspan x = "338.5" dy="1.0em">@repo/ui#lint</tspan></text><g >
+
+            <rect x="161.5" y="30" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="161.5" y="15" class="a15"><tspan x = "161.5" dy="1.0em">web#build</tspan></text><g >
+
+            <rect x="369" y="30" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="369" y="15" class="a15"><tspan x = "369" dy="1.0em">web#lint</tspan></text><g >
+
+            <rect x="101.5" y="30" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="101.5" y="15" class="a15"><tspan x = "101.5" dy="1.0em">docs#build</tspan></text><g >
+
+            <rect x="309" y="30" width="0" height="0" fill="#ffffffff" 
+            stroke-width="2" stroke="#000000ff" rx="0"  />
+
+            </g>
+<text dominant-baseline="middle" text-anchor="middle" 
+            x="309" y="15" class="a15"><tspan x = "309" dy="1.0em">docs#lint</tspan></text><g >
+
+            <path id="arrow0" d="M 221.5 150 C 221.5 180, 221.5 180, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow0" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow1" d="M 303.5 150 C 279.2890902302471 167.71529983152652, 245.7109097697529 192.28470016847348, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow1" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow2" d="M 41.5 150 C 69.96049894151541 159.48683298050514, 193.03950105848457 200.51316701949486, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow2" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow3" d="M 374.5 150 C 346.5708040453881 160.95262586455368, 249.42919595461188 199.04737413544632, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow3" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow4" d="M 101.5 150 C 128.3328157299975 163.41640786499875, 194.6671842700025 196.58359213500125, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow4" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow5" d="M 161.5 150 C 182.71320343559643 171.21320343559643, 200.28679656440357 188.78679656440357, 221.5 210 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow5" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow6" d="M 131 90 C 156.00393302537316 106.57719316599325, 196.49606697462684 133.42280683400674, 221.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow6" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow7" d="M 131 90 C 106.08140771064714 106.7052015347617, 66.41859228935286 133.2947984652383, 41.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow7" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow8" d="M 338.5 90 C 323.3838692342774 115.91336702695301, 318.6161307657226 124.08663297304699, 303.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow8" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow9" d="M 338.5 90 C 353.9348726628258 115.72478777137633, 359.0651273371742 124.27521222862367, 374.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow9" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow10" d="M 161.5 30 C 174.91640786499875 56.83281572999748, 178.08359213500125 63.16718427000252, 191.5 90 S 208.08359213500125 123.16718427000252, 221.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow10" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow11" d="M 161.5 30 C 134.6671842700025 43.41640786499874, 41.5 60, 41.5 90 S 41.5 120, 41.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow11" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow12" d="M 161.5 30 C 147.90560109106434 56.743079820857005, 144.59439890893566 63.256920179142995, 131 90 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow12" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow13" d="M 369 30 C 346.8783675248801 50.26409081690371, 303.5 60, 303.5 90 S 303.5 120, 303.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow13" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow14" d="M 369 30 C 385.9257151507667 54.769339245024426, 409.5094815238754 64.69482356473023, 410 90 S 389.77637473755357 124.18077509145877, 374.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow14" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow15" d="M 369 30 C 355.40560109106434 56.743079820857005, 352.09439890893566 63.256920179142995, 338.5 90 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow15" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow16" d="M 101.5 30 C 122.71320343559643 51.21320343559643, 140.28679656440357 68.78679656440357, 161.5 90 S 200.28679656440357 128.78679656440357, 221.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow16" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow17" d="M 101.5 30 C 76.09747994785737 45.959698462079146, 6.263108864140641 67.9471495302765, 6 90 S 26.22362526244644 124.18077509145877, 41.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow17" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow18" d="M 101.5 30 C 114.73662803293318 56.921955321220025, 117.76337196706682 63.078044678779975, 131 90 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow18" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow19" d="M 309 30 C 292.0742848492333 54.769339245024426, 268.4905184761246 64.69482356473023, 268 90 S 288.22362526244643 124.18077509145877, 303.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow19" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow20" d="M 309 30 C 331.1216324751199 50.26409081690371, 374.5 60, 374.5 90 S 374.5 120, 374.5 150 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow20" startOffset="50%" text-anchor="middle" class="a15"></textPath></text><g >
+
+            <path id="arrow21" d="M 309 30 C 322.2366280329332 56.921955321220025, 325.2633719670668 63.078044678779975, 338.5 90 " stroke="#000000ff" stroke-width="2"   marker-end="url(#endarrow)" 
+            fill="transparent" />
+
+            </g>
+<text><textPath href="#arrow21" startOffset="50%" text-anchor="middle" class="a15"></textPath></text></svg>
